@@ -1,0 +1,101 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Lecture 0 : Course Introduction}{chapter.1}% 2
+\BOOKMARK [2][-]{subsection.1.1.1}{Course Overview and References}{section.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.2}{Evaluation Policy}{section.1.1}% 4
+\BOOKMARK [0][-]{chapter.2}{Errors in Numerical Computation}{}% 5
+\BOOKMARK [1][-]{section.2.1}{Real Numbers, Machine Numbers, Rounding}{chapter.2}% 6
+\BOOKMARK [2][-]{subsection.2.1.1}{Rounding}{section.2.1}% 7
+\BOOKMARK [2][-]{subsection.2.1.2}{Machine Arithmetic}{section.2.1}% 8
+\BOOKMARK [0][-]{chapter.3}{The Solution of Non-Linear Equations by Bisection Method}{}% 9
+\BOOKMARK [1][-]{section.3.1}{The Bisection Method}{chapter.3}% 10
+\BOOKMARK [1][-]{section.3.2}{Error Analysis}{chapter.3}% 11
+\BOOKMARK [0][-]{chapter.4}{Newton-Raphson Method}{}% 12
+\BOOKMARK [1][-]{section.4.1}{Geometric Interpretation}{chapter.4}% 13
+\BOOKMARK [1][-]{section.4.2}{Error Analysis}{chapter.4}% 14
+\BOOKMARK [0][-]{chapter.5}{System of Non-Linear Equations}{}% 15
+\BOOKMARK [1][-]{section.5.1}{Newton's Iteration on Non-Linear system of n variables}{chapter.5}% 16
+\BOOKMARK [0][-]{chapter.6}{The Fixed-Point Method}{}% 17
+\BOOKMARK [1][-]{section.6.1}{Fixed Point of a function}{chapter.6}% 18
+\BOOKMARK [1][-]{section.6.2}{Performance Analysis}{chapter.6}% 19
+\BOOKMARK [0][-]{chapter.7}{Newton's Method from Fixed Point Method \046 Multiple Roots}{}% 20
+\BOOKMARK [1][-]{section.7.1}{Newton's method on Multiple Roots}{chapter.7}% 21
+\BOOKMARK [0][-]{chapter.8}{Interpolation}{}% 22
+\BOOKMARK [1][-]{section.8.1}{Lagrange's Interpolating Polynomial}{chapter.8}% 23
+\BOOKMARK [2][-]{subsection.8.1.1}{Construction of Lagrange's Interpolating Polynomial}{section.8.1}% 24
+\BOOKMARK [1][-]{section.8.2}{Error in Lagrange's Interpolation}{chapter.8}% 25
+\BOOKMARK [2][-]{subsection.8.2.1}{Example use in Linear Interpolation Error}{section.8.2}% 26
+\BOOKMARK [2][-]{subsection.8.2.2}{Example use in Rounding Error Analysis for Linear Interpolation}{section.8.2}% 27
+\BOOKMARK [2][-]{subsection.8.2.3}{Drawback in Lagrange Interpolation formula}{section.8.2}% 28
+\BOOKMARK [1][-]{section.8.3}{Newton's Interpolation}{chapter.8}% 29
+\BOOKMARK [2][-]{subsection.8.3.1}{Explicit formula for computing Divided Differences}{section.8.3}% 30
+\BOOKMARK [1][-]{section.8.4}{Error in Newton's Interpolation}{chapter.8}% 31
+\BOOKMARK [1][-]{section.8.5}{Relation between Divided Differences and it's Derivatives}{chapter.8}% 32
+\BOOKMARK [2][-]{subsection.8.5.1}{More Insights into Divided Difference}{section.8.5}% 33
+\BOOKMARK [1][-]{section.8.6}{Application of Newton's Interpolation : Inverse Interpolation}{chapter.8}% 34
+\BOOKMARK [1][-]{section.8.7}{Hermite Interpolation}{chapter.8}% 35
+\BOOKMARK [2][-]{subsection.8.7.1}{Example with n=1}{section.8.7}% 36
+\BOOKMARK [2][-]{subsection.8.7.2}{Uniqueness of Hermite Interpolating Polynomial}{section.8.7}% 37
+\BOOKMARK [1][-]{section.8.8}{Hermite Interpolation based on Divided Differences}{chapter.8}% 38
+\BOOKMARK [1][-]{section.8.9}{Spline Interpolation}{chapter.8}% 39
+\BOOKMARK [2][-]{subsection.8.9.1}{Cubic Spline Interpolation}{section.8.9}% 40
+\BOOKMARK [2][-]{subsection.8.9.2}{Derivation of Cubic Spline}{section.8.9}% 41
+\BOOKMARK [1][-]{section.8.10}{Minimizing Property of Cubic Splines}{chapter.8}% 42
+\BOOKMARK [0][-]{chapter.9}{Numerical Differentiation}{}% 43
+\BOOKMARK [1][-]{section.9.1}{Differentiation via Polynomial Interpolation}{chapter.9}% 44
+\BOOKMARK [2][-]{subsection.9.1.1}{Simplification of Error Eq. 9.3}{section.9.1}% 45
+\BOOKMARK [2][-]{subsection.9.1.2}{Discretization}{section.9.1}% 46
+\BOOKMARK [1][-]{section.9.2}{Approximation of Derivatives via Taylor's Theorem}{chapter.9}% 47
+\BOOKMARK [0][-]{chapter.10}{Numerical Integration}{}% 48
+\BOOKMARK [1][-]{section.10.1}{Many rules of choosing the interpolating points}{chapter.10}% 49
+\BOOKMARK [2][-]{subsection.10.1.1}{Rectangle Rule}{section.10.1}% 50
+\BOOKMARK [2][-]{subsection.10.1.2}{Mid-point Rule}{section.10.1}% 51
+\BOOKMARK [2][-]{subsection.10.1.3}{Trapezoidal Rule}{section.10.1}% 52
+\BOOKMARK [2][-]{subsection.10.1.4}{Simpson's Rule}{section.10.1}% 53
+\BOOKMARK [2][-]{subsection.10.1.5}{Corrected Trapezoidal Rule}{section.10.1}% 54
+\BOOKMARK [1][-]{section.10.2}{Error Analysis}{chapter.10}% 55
+\BOOKMARK [2][-]{subsection.10.2.1}{Error in Rectangle Rule}{section.10.2}% 56
+\BOOKMARK [2][-]{subsection.10.2.2}{Error in Mid-Point Rule}{section.10.2}% 57
+\BOOKMARK [2][-]{subsection.10.2.3}{Error in Trapezoidal Rule}{section.10.2}% 58
+\BOOKMARK [2][-]{subsection.10.2.4}{Error in Simpson's Rule}{section.10.2}% 59
+\BOOKMARK [2][-]{subsection.10.2.5}{Error in Corrected Trapezoidal Rule}{section.10.2}% 60
+\BOOKMARK [1][-]{section.10.3}{Composite Methods}{chapter.10}% 61
+\BOOKMARK [2][-]{subsection.10.3.1}{Composite Rectangle Rule}{section.10.3}% 62
+\BOOKMARK [2][-]{subsection.10.3.2}{Composite Mid-Point Rule}{section.10.3}% 63
+\BOOKMARK [2][-]{subsection.10.3.3}{Composite Trapezoid Rule}{section.10.3}% 64
+\BOOKMARK [2][-]{subsection.10.3.4}{Composite Simpson's Rule}{section.10.3}% 65
+\BOOKMARK [2][-]{subsection.10.3.5}{Composite Corrected Trapezoidal Rule}{section.10.3}% 66
+\BOOKMARK [1][-]{section.10.4}{Gauss Quadrature Rule}{chapter.10}% 67
+\BOOKMARK [2][-]{subsection.10.4.1}{Special case when w\(x\) = 1 and -11 g\(x\) dx j=0k Aj g\(xj\)}{section.10.4}% 68
+\BOOKMARK [2][-]{subsection.10.4.2}{An Alternate Approach through Newton's Interpolation}{section.10.4}% 69
+\BOOKMARK [0][-]{chapter.11}{Numerical Solutions to IVPs for ODEs : One-Step Method}{}% 70
+\BOOKMARK [1][-]{section.11.1}{Taylor-Series Method}{chapter.11}% 71
+\BOOKMARK [2][-]{subsection.11.1.1}{Taylor's Algorithm of Order k}{section.11.1}% 72
+\BOOKMARK [1][-]{section.11.2}{Euler's Method}{chapter.11}% 73
+\BOOKMARK [1][-]{section.11.3}{Runge-Kutta Method}{chapter.11}% 74
+\BOOKMARK [1][-]{section.11.4}{Systems of Differential Equations}{chapter.11}% 75
+\BOOKMARK [0][-]{chapter.12}{Numerical Solutions to IVPs for ODEs : Multi-Step Methods}{}% 76
+\BOOKMARK [1][-]{subsection.12.0.1}{Adams-Bashford Method}{chapter.12}% 77
+\BOOKMARK [1][-]{section.12.1}{Predictor-Corrector Methods}{chapter.12}% 78
+\BOOKMARK [2][-]{subsection.12.1.1}{Second-Order Predictor-Corrector Method}{section.12.1}% 79
+\BOOKMARK [2][-]{subsection.12.1.2}{The Adams-Moulton Method}{section.12.1}% 80
+\BOOKMARK [1][-]{section.12.2}{Stability of Multi-Step Methods This section contains some details which are rigorously explained in the following chapter.}{chapter.12}% 81
+\BOOKMARK [2][-]{subsection.12.2.1}{Example : Stability of Milne's Method}{section.12.2}% 82
+\BOOKMARK [0][-]{chapter.13}{Solutions of Linear Difference Equations}{}% 83
+\BOOKMARK [1][-]{section.13.1}{Solutions to homogeneous LDE}{chapter.13}% 84
+\BOOKMARK [1][-]{section.13.2}{Solution to Non-homogeneous LDE with constant coefficients}{chapter.13}% 85
+\BOOKMARK [0][-]{chapter.14}{Finite Difference Approximations to Derivatives}{}% 86
+\BOOKMARK [1][-]{section.14.1}{Finite Difference Approximations to Derivatives}{chapter.14}% 87
+\BOOKMARK [2][-]{subsection.14.1.1}{Functions of one-variable}{section.14.1}% 88
+\BOOKMARK [2][-]{subsection.14.1.2}{Functions of two-variables}{section.14.1}% 89
+\BOOKMARK [1][-]{section.14.2}{The Heat Equation}{chapter.14}% 90
+\BOOKMARK [2][-]{subsection.14.2.1}{Schmidt's Explicit Scheme}{section.14.2}% 91
+\BOOKMARK [2][-]{subsection.14.2.2}{Euler's Implicit Scheme}{section.14.2}% 92
+\BOOKMARK [2][-]{subsection.14.2.3}{Crank-Nicolson Scheme}{section.14.2}% 93
+\BOOKMARK [2][-]{subsection.14.2.4}{Richardson's Scheme}{section.14.2}% 94
+\BOOKMARK [2][-]{subsection.14.2.5}{DuFort-Frankel Explicit Scheme}{section.14.2}% 95
+\BOOKMARK [2][-]{subsection.14.2.6}{Weighted Average Approximation}{section.14.2}% 96
+\BOOKMARK [1][-]{section.14.3}{Consistency \046 Stability of Finite Difference Equations}{chapter.14}% 97
+\BOOKMARK [1][-]{section.14.4}{Stability}{chapter.14}% 98
+\BOOKMARK [1][-]{section.14.5}{Stability Analysis by Matrix Method}{chapter.14}% 99
+\BOOKMARK [2][-]{subsection.14.5.1}{Basic Elements of Matrix Theory}{section.14.5}% 100
+\BOOKMARK [1][-]{section.14.6}{Stability Analysis by von Neumann Method \046 Lax Equivalence Theorem}{chapter.14}% 101
